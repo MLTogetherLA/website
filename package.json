@@ -1,0 +1,31 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "Source code for MLTogetherLA's website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MLTogetherLA/website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MLTogetherLA/website/issues"
+  },
+  "homepage": "https://github.com/MLTogetherLA/website#readme",
+  "devDependencies": {
+    "spectre.css": "^0.5.8",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "latest",
+    "gulp-clean-css": "latest",
+    "gulp-csscomb": "latest",
+    "gulp-pug": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "latest",
+    "jstransformer-highlight": "latest",
+    "jstransformer-markdown-it": "latest"
+  }
+}
